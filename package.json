@@ -1,0 +1,16 @@
+{
+  "name": "parcel-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "parcel watch src/index.scss"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.9.0",
+    "parcel-bundler": "git+https://github.com/parcel-bundler/parcel.git"
+  }
+}
